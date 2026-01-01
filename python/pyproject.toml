@@ -1,0 +1,13 @@
+dependencies = [
+    "sse_starlette",
+    "openpyxl",
+    "pandas",
+    "sqlalchemy",
+    "pypdf",
+    "ollama",
+    "sentence_transformers",
+    "fastapi[all]",
+    "openai",
+    "pydantic_settings",
+    "python_dotenv","toml", "pydantic","python-dotenv","pytest", "pytest-cov", "mypy"
+]
