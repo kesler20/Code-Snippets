@@ -70,7 +70,7 @@ Use headings like:
 ## 3. Page Template (Block Comments + OBSERVE STATE + UTILS)
 
 Use these sections in this order. Keep each section short.
-
+IT IS IMPORTANT TO NOTE THAT BLOCK COMMENTS HAVE 5 LINES NOT 3.
 ```tsx
 export default function SomePage() {
   
